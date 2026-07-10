@@ -12,6 +12,7 @@ Hibernate-Basics-Ai/
 ├── Demo02/
 ├── Hibernate/
 ├── Student-Task-Hibernate/
+├──Maven-Demo2/
 ├── untitled/
 │
 ├── Student-Task-Hibernate-Output.png
